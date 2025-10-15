@@ -2,6 +2,8 @@
 
 > Una aplicación moderna y responsiva de noticias construida con Next.js 15, TypeScript y Tailwind CSS que entrega noticias de última hora en tiempo real de todo el mundo.
 
+<img width="1884" height="882" alt="Captura de pantalla 2025-10-15 a la(s) 3 28 08 p m" src="https://github.com/user-attachments/assets/026e7d11-9113-4314-917e-01d3a193ad4a" />
+
 ## ✨ Características
 
 - 🌐 **Noticias en Tiempo Real**: Obtiene titulares actuales usando NewsAPI
@@ -54,11 +56,6 @@ NEWS_API_KEY=tu_clave_de_newsapi_de_newsapi.org
 ```
 
 Obtén tu clave API gratuita desde [NewsAPI.org](https://newsapi.org/)
-
-
-## 📱 Capturas de Pantalla
-
-Agrega capturas de pantalla aquí mostrando diferentes categorías, vista móvil, etc.
 
 
 ## 📄 Licencia
