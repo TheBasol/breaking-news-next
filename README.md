@@ -1,27 +1,28 @@
-# 📰 Breaking News - Next.js
+#  Breaking News - Next.js
 
 > Una aplicación moderna y responsiva de noticias construida con Next.js 15, TypeScript y Tailwind CSS que entrega noticias de última hora en tiempo real de todo el mundo.
 
-<img width="1884" height="882" alt="Captura de pantalla 2025-10-15 a la(s) 3 28 08 p m" src="https://github.com/user-attachments/assets/026e7d11-9113-4314-917e-01d3a193ad4a" />
 
-## ✨ Características
+<img width="1879" height="877" alt="Captura de pantalla 2025-10-19 a la(s) 2 46 05 p m" src="https://github.com/user-attachments/assets/349705a1-7beb-4130-a2e7-3f7c7c460585" />
 
-- 🌐 **Noticias en Tiempo Real**: Obtiene titulares actuales usando NewsAPI
-- 📱 **Diseño Responsivo**: Optimizado para escritorio, tablet y móvil
-- 🏷️ **Filtrado por Categorías**: Explora noticias por categorías (General, Negocios, Tecnología, Deportes, etc.)
-- 📄 **Paginación**: Navegación fluida a través de múltiples páginas de noticias
-- 🎨 **Interfaz Moderna**: Diseño limpio con componentes de DaisyUI
-- 🔒 **API Segura**: Claves de API protegidas usando rutas de API de Next.js
-- ⚡ **Carga Rápida**: Rendimiento optimizado con Next.js App Router
+##  Características
 
-## 🚀 Stack Tecnológico
+-  **Noticias en Tiempo Real**: Obtiene titulares actuales usando NewsAPI
+-  **Diseño Responsivo**: Optimizado para escritorio, tablet y móvil
+-  **Filtrado por Categorías**: Explora noticias por categorías (General, Negocios, Tecnología, Deportes, etc.)
+-  **Paginación**: Navegación fluida a través de múltiples páginas de noticias
+-  **Interfaz Moderna**: Diseño limpio con componentes de DaisyUI
+-  **API Segura**: Claves de API protegidas usando rutas de API de Next.js
+-  **Carga Rápida**: Rendimiento optimizado con Next.js App Router
+
+##  Stack Tecnológico
 
 - **Framework**: Next.js 15 (App Router)
 - **Lenguaje**: TypeScript
 - **Estilos**: Tailwind CSS + DaisyUI
 - **API**: NewsAPI para datos de noticias en tiempo real
 
-## 🛠️ Comenzando
+##  Comenzando
 
 1. Clona el repositorio
 ```bash
@@ -47,7 +48,7 @@ npm run dev
 
 5. Abre [http://localhost:3000](http://localhost:3000) en tu navegador
 
-## 🔑 Variables de Entorno
+##  Variables de Entorno
 
 Crea un archivo `.env.local` en el directorio raíz:
 
@@ -58,11 +59,11 @@ NEWS_API_KEY=tu_clave_de_newsapi_de_newsapi.org
 Obtén tu clave API gratuita desde [NewsAPI.org](https://newsapi.org/)
 
 
-## 📄 Licencia
+##  Licencia
 
 Este proyecto está licenciado bajo la Licencia MIT - mira el archivo [LICENSE](LICENSE) para más detalles.
 
-## 🙏 Agradecimientos
+##  Agradecimientos
 
 - [NewsAPI](https://newsapi.org/) por proporcionar los datos de noticias
 - [Next.js](https://nextjs.org/) por el increíble framework
